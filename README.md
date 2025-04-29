@@ -1,7 +1,7 @@
 # bootcamp-data-engineering
 Repo para entregar trabalho da disciplina de bootcamp data engineering:
 
-Professor, fiquei até o final da aula e usei a solução simplificada que você nos passou no final. O colab possui a antiga (que falhou) e a nova simplificada (que funcionou, vide print).
+Professor, ficamos até o final da aula e usei a solução simplificada que você nos passou no final. O colab possui a antiga (que falhou) e a nova simplificada (que funcionou, vide print).
 
 356138 - LUCAS COSTA FRANCO
 
